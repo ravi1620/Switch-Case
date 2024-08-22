@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+.form{
+  background-color: aqua;
+  display: inline-block;
+}
+.label{
+  display: inline-block;
+  width: 120px;
+  margin: 10px;
+}
+
+body{
+  background-image: url(https://www.w3schools.com/css/img_mountains.jpg);
+  background-size: cover;
+  object-fit: cover;
+}
+
+.span{
+  display: inline-block;
+  width: 100px;
+  margin-left: 10px;
+}
+
+.nav{
+display:flex;
+flex-direction: row;
+justify-content: space-evenly;
+align-content: space-evenly;
+background-color: aqua;
+color: blue;
+text-align: center;
+padding: 0px;
+}
+.internalLabels{
+  width: 100px;
+  margin: 10px;
+}
+
+
+
